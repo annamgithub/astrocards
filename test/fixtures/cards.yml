@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  card_question: MyText
+  card_answer: MyText
+  game: one
+  user: one
+
+two:
+  card_question: MyText
+  card_answer: MyText
+  game: two
+  user: two
