@@ -1,7 +1,7 @@
 # Astro Cards
 
 ## Introduction
-Astro Cards is a full-stack astrology-themed flashcard application. It was built using ReactJS and Ruby on Rails. You can run it locally using the instructions below, or you can view the version that has been deployed online [here](https://guarded-garden-16317.herokuapp.com/) (give Heroku some time to load).
+Astro Cards is a full-stack astronomy-themed flashcard application. It was built using ReactJS and Ruby on Rails. You can run it locally using the instructions below, or you can view the version that has been deployed online [here](https://guarded-garden-16317.herokuapp.com/) (give Heroku some time to load).
 
 ## How to Run the Application
 ### Back End
