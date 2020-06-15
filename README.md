@@ -5,7 +5,7 @@ Astro Cards is a full-stack astronomy-themed flashcard application. It was built
 
 ## How to Run the Application
 ### Back End
-Open your terminal and go to a location where you wish to clone the project, then type:  
+Open your terminal and go to a location where you wish to clone the project, then run:  
 `git clone https://github.com/annamgithub/astrocards.git`  
 `cd astrocards`  
 `npm install`  
